@@ -20,4 +20,4 @@ Time Sequencer（以下「本アプリ」）は、ユーザーのプライバシ
 
 ## 関連ページ
 
-- [サポートページ](./support)
+- [サポートページ](https://kama20164.github.io/Time-Sequencer/support)
