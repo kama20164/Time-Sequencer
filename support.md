@@ -4,3 +4,9 @@
 
 メール：
 kama201.apps@gmail.com
+
+## 関連ページ
+
+- [プライバシーポリシー]([./](https://kama20164.github.io/Time-Sequencer/support))
+
+
